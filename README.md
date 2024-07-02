@@ -1,6 +1,6 @@
-# brain_school
+# Educaid_Quiz
 
-school app for students
+Quiz app for School Students
 
 ## Getting Started
 
