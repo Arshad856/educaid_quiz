@@ -1,4 +1,4 @@
-# brain_school
+# Educaid
 
 school app for students
 
